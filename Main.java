@@ -11,6 +11,7 @@ import net.useobjects.eventloop.EventLoop;
  */
 public class Main {
     public static void main(String args[]){
+	/////////////////////////////////////////////komentár skúška
         EventLoop.start(new ProgramActivity());
     }
 }
