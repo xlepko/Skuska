@@ -13,6 +13,7 @@ public class Main {
     public static void main(String args[]){
         //asjkdkajshdjkasdkjashd
 		//komentár z klonu !!!
+		//komentár z github
         EventLoop.start(new ProgramActivity());
     }
 }
