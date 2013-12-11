@@ -12,6 +12,7 @@ import net.useobjects.eventloop.EventLoop;
 public class Main {
     public static void main(String args[]){
         //asjkdkajshdjkasdkjashd
+		//komentár z klonu !!!
         EventLoop.start(new ProgramActivity());
     }
 }
